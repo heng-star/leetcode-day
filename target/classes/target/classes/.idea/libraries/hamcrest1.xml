@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hamcrest1">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$MAVEN_REPOSITORY$/org/hamcrest" />
+    </SOURCES>
+  </library>
+</component>

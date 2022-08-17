@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://I:/Java/ggkt_parent" charset="UTF-8" />
+    <file url="file://I:/Java/ggkt_parent/common" charset="UTF-8" />
+    <file url="file://I:/Java/ggkt_parent/common/service_utils" charset="UTF-8" />
+    <file url="file://I:/Java/ggkt_parent/model" charset="UTF-8" />
+    <file url="file://I:/Java/ggkt_parent/service" charset="UTF-8" />
+    <file url="file://I:/Java/ggkt_parent/service/service_activity" charset="UTF-8" />
+    <file url="file://I:/Java/ggkt_parent/service/service_live" charset="UTF-8" />
+    <file url="file://I:/Java/ggkt_parent/service/service_order" charset="UTF-8" />
+    <file url="file://I:/Java/ggkt_parent/service/service_user" charset="UTF-8" />
+    <file url="file://I:/Java/ggkt_parent/service/service_vod" charset="UTF-8" />
+    <file url="file://I:/Java/ggkt_parent/service/service_wechat" charset="UTF-8" />
+    <file url="file://I:/Java/ggkt_parent/service_client" charset="UTF-8" />
+    <file url="file://I:/Java/ggkt_parent/service_client/service_activity_client" charset="UTF-8" />
+    <file url="file://I:/Java/ggkt_parent/service_client/service_course_client" charset="UTF-8" />
+    <file url="file://I:/Java/ggkt_parent/service_client/service_user_client" charset="UTF-8" />
+    <file url="file://I:/Java/ggkt_parent/service_gateway" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
